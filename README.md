@@ -1,4 +1,4 @@
-# TMM_AD_diagnosis
+# Trustworthy Enhanced Multi-view Multi-modal Alzheimer’s Disease Prediction with Brain-wide Imaging Transcriptomics Data
 
 The code will be released after the paper is accepted.
 
