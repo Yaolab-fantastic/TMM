@@ -5,6 +5,8 @@ The code will be released after the paper is accepted.
 # Overview
 Brain transcriptomics provides insights into the molecular mechanisms by which the brain coordinates its functions and processes. However, existing multimodal methods for predicting Alzheimer's disease (AD) primarily rely on imaging and sometimes genetic data, often neglecting the transcriptomic basis of brain. Furthermore, while striving to integrate complementary information between modalities, most studies overlook the informativeness disparities between modalities. Here, we propose TMM, a trusted multiview multimodal graph attention framework for AD diagnosis, using extensive brain-wide transcriptomics and imaging data. 
 
+![Framework](frameworkTMM.png)
+
 ## Requirements
 
 - Python 3.6
