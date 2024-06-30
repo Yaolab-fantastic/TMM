@@ -27,5 +27,14 @@ This tool is for research purposes and not approved for clinical use.
 ## Acknowledgments
 This tool is developed in Yao Lab. We thank all the contributors and collaborators for their support.
 
+# Cite
+'''
+@article{cong2024trustworthy,
+  title={Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data},
+  author={Cong, Shan and Fan, Zhoujie and Liu, Hongwei and Zhang, Yinghan and Wang, Xin and Luo, Haoran and Yao, Xiaohui},
+  journal={arXiv preprint arXiv:2406.14977},
+  year={2024}
+}
+'''
 
 
